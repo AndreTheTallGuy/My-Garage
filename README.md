@@ -1,4 +1,4 @@
-# Project 2
+# My Dream Garage
 
 * Design and build your first full-stack web application. You and your team will design and build an app using the MVC paradigm and your own server-side API. You will also continue to add to your professional repertoire with testing, continuous integration and linting tools.
 
